@@ -49,7 +49,7 @@ This project is a **Node.js** application built with **Express.js** for handling
 
 ## Project Structure
 Below is the directory layout of the TODO-APP backend service, reflecting the repository structure:
-
+```
 TODO-APP/
 ├── config/               # Configuration files
 │   └── database.js       # MongoDB connection setup (assumed name)
